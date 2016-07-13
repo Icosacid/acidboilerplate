@@ -1,0 +1,24 @@
+{
+  "name": "acidboilerplate",
+  "description": "Quickstart boilerplate",
+  "main": "index.html",
+  "keywords": [
+    "boilerplate"
+  ],
+  "authors": [
+    "Alexandre Andrieux <alex@icosacid.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
