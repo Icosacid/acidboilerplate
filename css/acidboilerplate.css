@@ -1,0 +1,28 @@
+/**
+ * CSS for I don't know what yet
+ * @author Alexandre Andrieux <alex@icosacid.com>
+ * @since 2015-07
+ */
+
+/** Boilerplate Skeleton **/
+* {
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+html,
+body {
+	height: 100%;
+	width: 100%;
+	background: white;
+}
+
+/** Content **/
+.central {
+	text-align: center;
+}
+button.helloworld {
+	margin-top: 30%;
+	text-align: center;
+	font-size: 3rem;
+}
